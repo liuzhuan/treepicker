@@ -1,0 +1,23 @@
+{
+  "name": "treepicker",
+  "version": "1.0.0",
+  "description": "A simple picker for interconnected column datas, based on ustbhuangyi/picker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzhuan/treepicker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzhuan/treepicker/issues"
+  },
+  "homepage": "https://github.com/liuzhuan/treepicker#readme",
+  "devDependencies": {
+    "better-picker": "^1.1.3"
+  }
+}
